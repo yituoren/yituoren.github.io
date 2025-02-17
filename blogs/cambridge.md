@@ -51,7 +51,7 @@ title: Cambridge
 
 <br>说回暑研本身，导师 Pietro Liò 是意大利人，在剑桥拿到了Msc学位，然后回意大利攻了**两个PhD** (Systems Dynamics & Theoretical Genetics)，而近几年他主要是做图神经网络和计算生物学。
 
-<br>但就像同项目的朋友(wyc)在知乎上吐槽的，教授的英文口音确实是一言难尽，三节AI正课几乎听不懂——当然，一方面确实是口音的问题，但更多的是ML (机器学习) 经历的欠缺。不过，至少这次暑研在比较感兴趣的 **ML+IIoT** 领域，做了比较深入的文献综述，最后产出的 [Research Proposal](https://caihanlin.com/mypaper/IP/Proposal.pdf) 和 [Final Report](https://caihanlin.com/mypaper/202210camb.pdf) 在大三下的实习学期也给我带来了很大的便利。
+<br>但就像同项目的朋友(wyc)在知乎上吐槽的，教授的英文口音确实是一言难尽，三节AI正课几乎听不懂——当然，一方面确实是口音的问题，但更多的是ML (机器学习) 经历的欠缺。不过，至少这次暑研在比较感兴趣的 **ML+IIoT** 领域，做了比较深入的文献综述，最后产出的 [Research Proposal](https://zhaorui.com/mypaper/IP/Proposal.pdf) 和 [Final Report](https://zhaorui.com/mypaper/202210camb.pdf) 在大三下的实习学期也给我带来了很大的便利。
 
 <br>最后还要提到，暑研的 Supervisor 是 Liò 教授的二年级博士生，我们叫他Jerry学长——北邮本科，然后在 Sheffield 读了一年MSc，在PhD阶段来到了剑桥做Wireless和ML
 
@@ -61,9 +61,9 @@ title: Cambridge
 
 ### 同期的故事
 
-暑研的同期，把大二下学期搞的那篇 [IoT-System](https://caihanlin.com/mypaper/202208cenim.pdf) 的文章给投了，稀里糊涂中的某IEEE亚洲水会，虽然水的一批，但总算是完成了自己的第一段经历。
+暑研的同期，把大二下学期搞的那篇 [IoT-System](https://zhaorui.com/mypaper/202208cenim.pdf) 的文章给投了，稀里糊涂中的某IEEE亚洲水会，虽然水的一批，但总算是完成了自己的第一段经历。
 
-<br>同时，大三学年停掉了一切学生工作之后，终于可以静下心来学习、读论文、做自己真正喜欢的事情了。大三上，拿到了本科生涯第1次专业第一（GPA3.97），开始做[第二篇文章](https://caihanlin.com/mypaper/202302ICAROB.pdf)并投稿，达到了舒适的**Work-Life-Balance**，总而言之，我逐渐达到了自己所向往的生活。
+<br>同时，大三学年停掉了一切学生工作之后，终于可以静下心来学习、读论文、做自己真正喜欢的事情了。大三上，拿到了本科生涯第1次专业第一（GPA3.97），开始做[第二篇文章](https://zhaorui.com/mypaper/202302ICAROB.pdf)并投稿，达到了舒适的**Work-Life-Balance**，总而言之，我逐渐达到了自己所向往的生活。
 
 <br>而回过头来，这次Camb暑研的经历，也让我暂时是坚定了未来攻读PhD的念头。与此同时，受暑研同学（wyc, chx, wjy）的启发，也让我开始更多地关注海外机会——即后来的“海外暑研申请”，这个后面会再写一篇文章细谈。
 

@@ -162,7 +162,7 @@ title: summer-res
 
 <br>项目地址：[summer-research-app](https://github.com/GuangLun2000/summer-research-app)
 
-<br>Written by [Hanlin CAI](https://caihanlin.com/), final update in Jan 2024.
+<br>Written by [Hanlin CAI](https://zhaorui.com/), final update in Jan 2024.
 
 <br>
 
