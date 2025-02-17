@@ -13,9 +13,9 @@ title: Projects
 1. Responsible for the establishment and improvement of the Real-time Intelligent Garbage Monitoring System (RIGMS) Testbed for IoT cybersecurity research;
 2. Master basic machine learning algorithms, further explore the design of IoT cybersecurity algorithms, and apply machine learning approaches to prevent IoT multiple-mix-attacks;
 3. Until to now, have obtained a series of experimental data, and carried out corresponding data preprocessing, preliminary result analysis, and algorithm evaluation;
-4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://zhaorui.com/mypaper/202210camb.pdf) (30th Dec 2022).
+4. Still under working that will be finalized in Feb 2023, and the latest manuscript can be found [here](https://yituoren.github.io/mypaper/202210camb.pdf) (30th Dec 2022).
 
-[RIGMS Testbed]:https://zhaorui.com/mypaper/202210camb.pdf
+[RIGMS Testbed]:https://yituoren.github.io/mypaper/202210camb.pdf
 
 
 
@@ -25,9 +25,9 @@ title: Projects
 
 1. This paper has proposed a deep residual neural network (RNN) model for traffic signs detection system (TSDS) research. Experiments are conducted to verify the feasibility of implement RNN model for traffic sign detection and recognition;
 1. Moreover, a new systematic analytic hierarchy process (AHP) method for model performance evaluation have been suggested, which is sufficient for deployment in the practical performance measurement of deep learning model;
-1. **News!** This paper have been accepted to ICAROB 2023. The manuscript [can be found here](https://zhaorui.com/mypaper/202302ICAROB.pdf).
+1. **News!** This paper have been accepted to ICAROB 2023. The manuscript [can be found here](https://yituoren.github.io/mypaper/202302ICAROB.pdf).
 
-[Deep ResNet for TSDS]: https://zhaorui.com/mypaper/202302ICAROB.pdf
+[Deep ResNet for TSDS]: https://yituoren.github.io/mypaper/202302ICAROB.pdf
 
 
 
@@ -38,9 +38,9 @@ title: Projects
 1. Took charge of the software and hardware interface part of the IoT Monitoring System, thousands of lines of high-quality and efficient code writing, and the technical documentation preparation of this system;
 1. Grasped the comprehensive knowledge of IoT systems and learned how to connect software with hardware and how to use cloud computing to process IoT-generated data, etc.;
 1. Penned a paper named An IoT Garbage Monitoring System for Effective Garbage Management and will report on this project as a presenter at IEEE CENIM in Nov 2022.
-1. [PDF](https://zhaorui.com/mypaper/202208cenim.pdf), [Slides](https://zhaorui.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/) (Latest update in Jan 2023)
+1. [PDF](https://yituoren.github.io/mypaper/202208cenim.pdf), [Slides](https://yituoren.github.io/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/) (Latest update in Jan 2023)
 
-[Garbage Manager]: https://zhaorui.com/mypaper/202208cenim.pdf
+[Garbage Manager]: https://yituoren.github.io/mypaper/202208cenim.pdf
 
  <br>
 

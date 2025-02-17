@@ -16,14 +16,14 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://zhaorui.com/mypaper/modeling/202302COMAP.pdf)
+#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://yituoren.github.io/mypaper/modeling/202302COMAP.pdf)
 
 <center>
 <img src="/images/MCM-figure3.jpg">
 </center>
 <br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://zhaorui.com/mypaper/202302ICAROB.pdf)
+#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://yituoren.github.io/mypaper/202302ICAROB.pdf)
 
 <center>
 <img src="/images/resnet-ahp.png">
@@ -31,7 +31,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://zhaorui.com/mypaper/202208cenim.pdf )
+#### [CityManager: Community Monitoring System](https://yituoren.github.io/mypaper/202208cenim.pdf )
 
 <center>
 <img src="/images/iot-manager.png">

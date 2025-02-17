@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://zhaorui.com/caihanlin.jpg" class="floatpic">
+<img src="https://yituoren.github.io/caihanlin.jpg" class="floatpic">
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 

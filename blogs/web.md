@@ -74,7 +74,7 @@ title: web
 .根目录
 ├── _config.yml  最关键的配置文件，所有的修改都将基于.yml展开
 ├── ***.md       主文件夹下的.md文件，构成了网站上的每一个界面
-├── CNAME        用于配置个人域名，例如我的域名是zhaorui.com，而不是.github.io（可选配）
+├── CNAME        用于配置个人域名，例如我的域名是yituoren.github.io，而不是.github.io（可选配）
 ├── LICENSE      协议文件，MIT协议表示本代码仓库可以被免费、无偿地复刻（可选配）
 ├── sitemap.xml  实际上改不改这个文件，都不会影响网站的正常显示（可选配）
 ├── googlefb025e8ad13f176c.html        用于配置Google搜索（可选配）
@@ -110,7 +110,7 @@ title: web
 
 ```yaml
 title: Hanlin Cai
-url: https://zhaorui.com
+url: https://yituoren.github.io
 
 owner: 
   name: Hanlin Cai
@@ -156,7 +156,7 @@ links:
 
 ### (5) 文件链接配置
 
-现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](https://zhaorui.com/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
+现在，聪明的你可能又发现了，在笔者的站点中，点击[Here is my Resume](https://yituoren.github.io/file/CV-HanlinCAI.pdf)，就可以访问笔者的个人简历。也就是说，你只需要甩给别人一个链接，就可以实时访问你的最新简历，而不用重复发送最新版简历，这真是太方便了！
 
 <br>于是，笔者要引入Jekyll静态站点的第二条哲学了：**二次元站点世界，是由链接构成的**。
 
@@ -183,7 +183,7 @@ links:
 <br>比如，在笔者站点中的`project.md`, `publications.md`等页面中，都有需要超链接地址，可以直接访问`mypaper`文件夹下的PDF文件，这就是通过绝对地址实现的，下面是配置方法：
 
 ```markdown
-[Here is my Resume](https://zhaorui.com/file/Resume-HanlinCAI.pdf)
+[Here is my Resume](https://yituoren.github.io/file/Resume-HanlinCAI.pdf)
 [] 里面放置你想显示的内容文本
 () 紧跟着，放置文件的绝对地址
 ```

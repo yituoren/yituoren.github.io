@@ -8,8 +8,8 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my persona
 
 - **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you so much!
 - **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
-- **April 2023:** [Website building tutorials](https://zhaorui.com/blogs/web/) have been post on my blog (建站完全指南)
-- **Dec. 2022:** My personal website have been implemented in [zhaorui.com](https://zhaorui.com)
+- **April 2023:** [Website building tutorials](https://yituoren.github.io/blogs/web/) have been post on my blog (建站完全指南)
+- **Dec. 2022:** My personal website have been implemented in [yituoren.github.io](https://yituoren.github.io)
 - **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
 
 ## Star History

@@ -47,21 +47,21 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 > Our group website: [https://fzuiot.site/](https://fzuiot.site/)
 
 <div>
-<img src="https://zhaorui.com/images/teams/teams1.jpg">
+<img src="https://yituoren.github.io/images/teams/teams1.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhaorui.com/images/teams/teams2.jpg">
+<img src="https://yituoren.github.io/images/teams/teams2.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhaorui.com/images/teams/teams.jpg">
+<img src="https://yituoren.github.io/images/teams/teams.jpg">
 </div>
 <br>
 
 <div>
-<img src="https://zhaorui.com/images/teams/teams4.jpg">
+<img src="https://yituoren.github.io/images/teams/teams4.jpg">
 </div>
 <br>

@@ -5,7 +5,7 @@ title: Publications
 pubs:
   - author: "Hanlin Cai, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong"
     title: "Deep Residual Neural Network for Efficient Traffic Sign Detection"
-    url: "https://zhaorui.com/mypaper/202302ICAROB.pdf"
+    url: "https://yituoren.github.io/mypaper/202302ICAROB.pdf"
     keywords: "RNN"
     month: "February"
     year: "2023"
@@ -14,8 +14,8 @@ pubs:
 
   - author: "Hanlin Cai, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong"
     title: "An IoT Garbage Monitoring System for Effective Garbage Management"
-    url: "https://zhaorui.com/mypaper/202208cenim.pdf"
-    slides: "https://zhaorui.com/mypaper/slides/2022-CENIM-Pre-v2.pdf"
+    url: "https://yituoren.github.io/mypaper/202208cenim.pdf"
+    slides: "https://yituoren.github.io/mypaper/slides/2022-CENIM-Pre-v2.pdf"
     Talk: "https://www.bilibili.com/video/BV1jv4y1S7VQ/"
     keywords: "IoT"
     month: "November"
@@ -50,7 +50,7 @@ pubs:
 
 ## Working Paper
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript [can be found here](https://zhaorui.com/mypaper/202210camb.pdf) (Update in 29th Dec 2022)*
+- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. *The latest manuscript [can be found here](https://yituoren.github.io/mypaper/202210camb.pdf) (Update in 29th Dec 2022)*
 
 - fsdkjal<br>
 
