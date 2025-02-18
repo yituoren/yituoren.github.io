@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yituoren.github.io/caihanlin.jpg" class="floatpic">
+<img src="https://yituoren.github.io/1.png" class="floatpic">
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Embodied Intelligence
 - Large (Language) Model
 
-My current research focuses on practical issues that artificial intelligence faces. I don not think current methods that are widely used can lead to real intelligence, considering the problems of real-world understanding, thinking and energy consumption. I wish to devote my talent to explaining and finding the way to artificial intelligence and change the world a little bit.
+My current research focuses on practical issues that artificial intelligence faces. I do not think current methods that are widely used can lead to real intelligence, considering the problems of real-world understanding, thinking and energy consumption. I wish to devote my talent to explaining and finding the way to artificial intelligence and change the world a little bit.
 
 ---
 
