@@ -32,4 +32,14 @@ My current research focuses on practical issues that artificial intelligence fac
 - **February 2025**: Start developing my personal website. 
 - **February 2025**: Very excited to submit our work *Tree-KG* to ACL ARR! 
 
+---
+
+## Other ways to reach me
+
+- **Wechat**: xxldzzr
+- **QQ**: 2776604248@qq.com
+- **Academic Email**: zhaor23@mails.tsinghua.edu.cn
+- **Main Email**: zhaorui0329@gmail.com
+- **Daily Email**: 2776604248@qq.com
+
 <br>
