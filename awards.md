@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Haven't been updated
+> Haven't been updated. 
 
 ## Scholarships
 
