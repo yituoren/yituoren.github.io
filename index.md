@@ -37,7 +37,7 @@ My current research focuses on practical issues that artificial intelligence fac
 ## Other Ways to Reach Me
 
 - **Wechat**: xxldzzr
-- **QQ**: 2776604248@qq.com
+- **QQ**: 2776604248
 - **Academic Email**: zhaor23@mails.tsinghua.edu.cn
 - **Main Email**: zhaorui0329@gmail.com
 - **Daily Email**: 2776604248@qq.com
