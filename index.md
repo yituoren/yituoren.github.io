@@ -34,7 +34,7 @@ My current research focuses on practical issues that artificial intelligence fac
 
 ---
 
-## Other ways to reach me
+## Other Ways to Reach Me
 
 - **Wechat**: xxldzzr
 - **QQ**: 2776604248@qq.com
