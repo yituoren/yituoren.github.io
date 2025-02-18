@@ -8,7 +8,7 @@ layout: page
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
-I am a undergraduate student in the Department of Computer Science and Technology at Tsinghua University, currently under the guidance of  [Prof. Hongning Wang](https://ioe.eng.cam.ac.uk/directory/akan). I also spent a lovely SRT program with [Postdoc Songjie Niu](https://www.cl.cam.ac.uk/~pl219/) studying LLM-based knowledge graph automated construction. <br>
+I am an undergraduate student in the Department of Computer Science and Technology at Tsinghua University, currently under the guidance of  [Prof. Hongning Wang](https://ioe.eng.cam.ac.uk/directory/akan). I also spent a lovely SRT program with [Postdoc Songjie Niu](https://www.cl.cam.ac.uk/~pl219/) studying LLM-based knowledge graph automated construction. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaor23 [at] mails.tsinghua.edu.cn
 
@@ -23,7 +23,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - Embodied Intelligence
 - Large (Language) Model
 
-My current research focuses on practical issues that artificial intelligence faces. I don't think current methods that are widely used can lead to real intelligence, considering the problems of real-world understanding, thinking and energy consumption. I wish to devote my talent to explaining and finding the way to artificial intelligence and change the world a little bit.
+My current research focuses on practical issues that artificial intelligence faces. I don not think current methods that are widely used can lead to real intelligence, considering the problems of real-world understanding, thinking and energy consumption. I wish to devote my talent to explaining and finding the way to artificial intelligence and change the world a little bit.
 
 ---
 
