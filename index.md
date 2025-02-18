@@ -8,7 +8,7 @@ layout: page
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
-I am an undergraduate student in the Department of Computer Science and Technology at Tsinghua University, currently under the guidance of  [Prof. Hongning Wang](https://ioe.eng.cam.ac.uk/directory/akan). I also spent a lovely SRT program with [Postdoc Songjie Niu](https://www.cl.cam.ac.uk/~pl219/) studying LLM-based knowledge graph automated construction. <br>
+I am an undergraduate student in the Department of Computer Science and Technology at Tsinghua University, currently under the guidance of  [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). I also spent a lovely SRT program with [Postdoc Songjie Niu](https://scholar.google.com/citations?user=XZBJX4AAAAAJ&hl=en) studying LLM-based knowledge graph automated construction. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaor23 [at] mails.tsinghua.edu.cn
 
