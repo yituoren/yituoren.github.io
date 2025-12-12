@@ -4,6 +4,11 @@ html {
 	font-color: @textcolor;
 	font-size: 90%;
 }
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
 .navigation-wrapper {
 	.container();
 	padding: 2em 0 3em;
@@ -43,6 +48,7 @@ html {
 	}
 }
 #main {
+	flex: 1;
 	counter-reset: captions;
 	.container();
 	.clearfix();
@@ -57,6 +63,7 @@ html {
 	}
 }
 #index {
+	flex: 1;
 	.container();
 	.grid(12,10);
 	.prefix(12,1);

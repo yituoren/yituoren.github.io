@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://yituoren.github.io/1.png" class="floatpic">
+<img src="https://yituoren.github.io/images/1.png" class="floatpic">
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
