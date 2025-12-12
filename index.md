@@ -8,29 +8,39 @@ layout: page
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
-I am an undergraduate student in the Department of Computer Science and Technology at Tsinghua University, currently under the guidance of  [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/). I also spent a lovely SRT program with [Postdoc Songjie Niu](https://scholar.google.com/citations?user=XZBJX4AAAAAJ&hl=en) studying LLM-based knowledge graph automated construction. <br>
+I am a passionate and self-driven undergraduate student in the Department of Computer Science and Technology at Tsinghua University. My research interests lie in **Reinforcement Learning**, **World Model and VLA**, and **Embodied Intelligence**. I have a strong foundation in mathematics and deep learning, with practical experience in LLMs and agents.
+
+Currently, I am working under the guidance of [Prof. Alex Lamb](https://scholar.google.com/citations?user=BFzFy1YAAAAJ&hl=en). I also have experience working with Postdoc Songjie Niu on knowledge graph construction and with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/) on AI teaching assistant and reinforcement learning for cognitive reasoning. 
+
+I am interested in history, philosophy, literature and music so that I can think about the problems in the world from multiple perspectives. I am eager to learn and explore the unknown, aiming to expand the frontiers of AI.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - zhaor23 [at] mails.tsinghua.edu.cn
-
-**<font color="#990000">This page is currently being updated. I apologize for any misunderstanding. Thank you!</font>**
 
 ---
 
 ## Research Interests
 
 - **Reinforcement Learning**
-- Machine Learning
-- Embodied Intelligence
-- Large (Language) Model
+- **World Model and VLA**
+- **Embodied Intelligence**
+- **LLM and Other Generative Models**
 
 My current research focuses on practical issues that artificial intelligence faces. I do not think current methods that are widely used can lead to real intelligence, considering the problems of real-world understanding, thinking and energy consumption. I wish to devote my talent to explaining and finding the way to artificial intelligence and change the world a little bit.
 
 ---
 
+## Skills
+
+- **Languages**: Python, C, C++, Rust, Typescript, Javascript, SystemVerilog
+- **Frameworks**: PyTorch, HuggingFace, verl, Weight & Biases, OpenCV, Langchain
+- **Tools**: Git, Docker, Linux, LaTeX, VSCode
+
+---
+
 ## News and Updates
 
+- **May 2025**: Our work *Tree-KG* has been accepted at **ACL 2025 main conference**!
 - **February 2025**: Start developing my personal website. 
-- **February 2025**: Very excited to submit our work *Tree-KG* to ACL ARR! 
 
 ---
 

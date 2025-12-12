@@ -4,12 +4,15 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Haven't been updated. 
-
 ## Scholarships
 
-<br>
+- **ShuPing Scholarship**, 91-92, 93-94, 95-96
+- **Academic Excellence Scholarship**, 2024
+- **Comprehensive Performance Scholarship**, 2025
 
-## Competitions
+## Competitions & Honors
 
-<br>
+- **3rd Place**, Red Mountain Open-Source Large Model Innovation Competition, 2024
+- **Second Prize**, The 43th Tsinghua University “Challenge Cup” (Information Technology Track), 2025
+- **10th Place**, "Rollman" - The 29th Intelligent Agent Competition (Ghost Track), 2025
+- **Best Popularity Award**, Student Innovation and Research Annual Conference, 2024
