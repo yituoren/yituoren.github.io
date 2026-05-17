@@ -38,6 +38,8 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: Thinking
+    url: /thinking/
   - title: Publications
     url: /publications/
   - title: Experience
