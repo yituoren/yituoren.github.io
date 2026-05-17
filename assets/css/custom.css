@@ -1,0 +1,58 @@
+/* =========================================================================
+   Custom overrides — loaded after main.css.
+   LessWrong-style serif typography + a wider main content column.
+   The top navigation bar is intentionally left in its original font.
+   ========================================================================= */
+
+/* ET Book — the serif LessWrong uses for headings */
+@font-face {
+  font-family: 'ETBook';
+  src: url('https://cdn.jsdelivr.net/gh/edwardtufte/et-book/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* --- Fonts: everything except the top navigation -------------------------- */
+
+/* Body / running text: Palatino-style serif (LessWrong body font) */
+body {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD",
+               "Book Antiqua", Georgia, serif;
+}
+
+/* Headings: ET Book serif (LessWrong heading font) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'ETBook', Palatino, "Palatino Linotype",
+               "Book Antiqua", Georgia, serif;
+  font-weight: 400;
+}
+
+/* Figure captions and table-of-contents follow the serif body
+   instead of the condensed sans-serif */
+figcaption,
+.toc li {
+  font-family: inherit;
+}
+
+/* The top navigation keeps its original condensed sans-serif */
+.navigation-wrapper,
+.navigation-wrapper * {
+  font-family: 'PT Sans Narrow', sans-serif !important;
+}
+
+/* --- Wider main content column ------------------------------------------- */
+
+@media only screen and (min-width: 37.5em) {
+  #main article,
+  #index {
+    width: 58%;
+  }
+}
+
+@media only screen and (min-width: 86.375em) {
+  #main article,
+  #index {
+    width: 52%;
+  }
+}

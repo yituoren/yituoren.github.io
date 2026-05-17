@@ -46,8 +46,8 @@ links:
     url: /experience/
   - title: Awards
     url: /awards/
-  - title: Life
-    url: /life/
+  - title: Blog
+    url: /blog/
   - title: Resources
     url: /resources/
   # - title: Startups
@@ -66,6 +66,15 @@ highlighter: rouge
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
+
+# Blog posts live in the _posts/ folder and are served at /blog/:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: /blog/:title/
 
 
 kramdown:

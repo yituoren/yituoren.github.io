@@ -45,6 +45,7 @@
       <h2>{{ page.tagline }}</h2>
     </div><!--/ .headline-wrap -->
     <div class="article-wrap" itemprop="text">
+      <p class="byline" style="text-align:center;">Published on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time> &nbsp;·&nbsp; {{ content | number_of_words }} words &nbsp;·&nbsp; {{ content | number_of_words | divided_by: 200.0 | ceil }} min read</p>
       {{ content }}
       <hr />
       <footer role="contentinfo">
