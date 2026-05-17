@@ -41,12 +41,18 @@ figcaption,
   font-family: 'PT Sans Narrow', sans-serif !important;
 }
 
-/* --- Wider main content column ------------------------------------------- */
+/* --- Wider, centered main content column ---------------------------------
+   The content column is widened and horizontally centered on the page.
+   The author-bio sidebar is pulled into the left margin so the body text
+   sits in the middle with symmetric whitespace on both sides. */
 
 @media only screen and (min-width: 37.5em) {
   #main article,
   #index {
     width: 58%;
+  }
+  .article-author-top {
+    margin-left: 0;
   }
 }
 
@@ -54,5 +60,8 @@ figcaption,
   #main article,
   #index {
     width: 52%;
+  }
+  .article-author-top {
+    margin-left: 7.333%;
   }
 }

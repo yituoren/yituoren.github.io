@@ -28,6 +28,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - **Computer Vision**
 - **Generative Foundation Models**
 
+
 My research is driven by the conviction that physical-world dynamics cannot be acquired from human-produced text alone — that the embodied side of intelligence requires environments where learning is not bound by physical time. Following this, I have moved progressively from symbolic knowledge and reasoning toward generative world models and policy learning.
 
 I see the integration of symbolic, linguistic intelligence with embodied, multi-modal perception as one of the central unsolved problems on the path toward general intelligence, and I hope to contribute to it through both architectural innovation in non-language modalities and the exploration of digitized environments as training grounds. Where this thinking currently stands is written down in [a working framework](/thinking/).
