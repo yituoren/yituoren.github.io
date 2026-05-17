@@ -8,7 +8,7 @@ layout: page
 
 Here is **Rui Zhao (Terry, 赵睿)**.<br>
 
-I am a passionate and self-driven undergraduate student in the Department of Computer Science and Technology at Tsinghua University. My research interests span **Reinforcement Learning**, **World Models**, **Embodied AI**, and **Generative Foundation Models**. I have a strong foundation in mathematics and deep learning, with practical experience in LLMs and agents.
+I am a passionate and self-driven undergraduate student in the Department of Computer Science and Technology at Tsinghua University. My research interests span **Reinforcement Learning**, **World Models and Embodied AI**, **Computer Vision**, and **Generative Foundation Models**. I have a strong foundation in mathematics and deep learning, with practical experience in LLMs and agents.
 
 Currently, I am working under the guidance of [Prof. Alex Lamb](https://scholar.google.com/citations?user=BFzFy1YAAAAJ&hl=en), exploring world models and dynamics understanding. I also have experience working with Postdoc Songjie Niu on knowledge graph construction and with [Prof. Hongning Wang](http://www.cs.virginia.edu/~hw5x/) on AI teaching assistant and reinforcement learning for cognitive reasoning. 
 
@@ -24,11 +24,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## Research Interests
 
 - **Reinforcement Learning**
-- **World Models**
-- **Embodied AI**
+- **World Models and Embodied AI**
+- **Computer Vision**
 - **Generative Foundation Models**
 
-My research is driven by the conviction that physical-world dynamics cannot be acquired from human-produced text alone — that the embodied side of intelligence requires environments where learning is not bound by physical time. Following this, I have moved progressively from structured knowledge extraction (*Tree-KG*, ACL 2025 main conference) toward generative world models and embodied policy learning.
+My research is driven by the conviction that physical-world dynamics cannot be acquired from human-produced text alone — that the embodied side of intelligence requires environments where learning is not bound by physical time. Following this, I have moved progressively from symbolic knowledge and reasoning toward generative world models and policy learning.
 
 I see the integration of symbolic, linguistic intelligence with embodied, multi-modal perception as one of the central unsolved problems on the path toward general intelligence, and I hope to contribute to it through both architectural innovation in non-language modalities and the exploration of digitized environments as training grounds. Where this thinking currently stands is written down in [a working framework](/thinking/).
 

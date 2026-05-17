@@ -9,15 +9,16 @@ title: Experience
 ### Action-space Model-based Reinforcement Learning for VLA
 **2026 -- now**
 
-- Used a bidirectional per-token encoder to replace exploration through the denoising process by traditional gaussian action disturbance, ensuring fine-grained control over the action space.
-- Designed a new algorithm for likelihood-based reinforcement learning to remove the bias introduced by the disturbance.
-- Implemented isolated post-training on pi0-like VLA and applied foundation world model to improve the efficiency.
+- Used a bidirectional encoder to replace exploration through the denoising process by traditional gaussian action disturbance, ensuring fine-grained control over the action space.
+- Designed the algorithm to perturb actions only within recognized key chunks to improve exploration efficiency and reduce redundant rollouts.
+- Introduced world model to the training loop to provide sufficient data and accurate guidance.
 
 ### Compressing Generative World Models via Reinforcement Learning
 **2025 -- now**
 
 - Tried to remove the noises and reserve task-relevant or reward-relevant information in world model by making the output more compressed.
 - Designed a composite reward signal including jpeg compressibility, action prediction consistency (via a custom resnet inverse action model), and value preservation to guide a diffusion world model finetuning process.
+- Implemented PPO, DDPO, and AWM, adapting and unifying their codebases into a custom pipeline for diffusion world model fine-tuning, and conducted extensive experiments to iteratively refine the algorithms based on empirical results.
 - Focused on efficient and stable RL post-training on world model to improve long-horizon accuracy and downstream policy performance.
 
 ### RL for Reasoning
@@ -33,11 +34,20 @@ title: Experience
 
 - Proposed an expandable framework of KG construction Tree-KG, including initial construction and iterative expansion.
 - Achieved SOTA performance compared with existing methods such as GraphRAG, especially when using textbooks.
-- Paper accepted at ACL 2025 main conference, Patent pending.
+- Paper accepted at ACL 2025 main conference, Patent number 202610098472.8.
 
 ---
 
 ## Industrial Experience
+
+### Team Member of Embodied AI Business Unit
+**Noetix Robotics, Beijing | 2026 -- now**
+
+Doing research and development on embodied AI, including:
+
+- **World Action Model Pretraining and Post-training**.
+- **VLA Post-training**: Designing and reproducing memory system and hierarchical inference mechanisms, implementing supervised finetuning and reinforcement learning to train robots to do real-world long-horizon tasks.
+- **Real-robot Deployment**.
 
 ### AI Teaching Assistant (Developer of AI Cosmos)
 **Tsinghua University | 2024 -- 2025**
