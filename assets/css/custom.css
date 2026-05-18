@@ -41,18 +41,31 @@ figcaption,
   font-family: 'PT Sans Narrow', sans-serif !important;
 }
 
-/* --- Wider, centered main content column ---------------------------------
-   The content column is widened and horizontally centered on the page.
-   The author-bio sidebar is pulled into the left margin so the body text
-   sits in the middle with symmetric whitespace on both sides. */
+/* --- Centered main content column ----------------------------------------
+   The content column is taken out of the float layout and horizontally
+   centered with auto margins, so it always sits in the middle of the page
+   regardless of viewport width. The author-bio is positioned absolutely in
+   the left margin and no longer pushes the content sideways. */
+
+#main {
+  position: relative;
+}
 
 @media only screen and (min-width: 37.5em) {
   #main article,
   #index {
-    width: 58%;
+    display: block;
+    float: none;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
   }
   .article-author-top {
-    margin-left: 0;
+    position: absolute;
+    top: 0;
+    left: 2%;
+    width: 17%;
+    margin: 0;
   }
 }
 
@@ -62,6 +75,12 @@ figcaption,
     width: 52%;
   }
   .article-author-top {
-    margin-left: 7.333%;
+    left: 6%;
+    width: 13%;
+  }
+  /* Centre the top navigation so it shares the page's centre line with the
+     content (its content block is 79.17% wide, hence the 10.417% margin). */
+  .site-name {
+    margin-left: 10.417%;
   }
 }
